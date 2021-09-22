@@ -20,7 +20,7 @@
 
 [IMPortant Para] 
 
-#### In this digital era getting professional guidance is in difficult at all. A flagship initiative started by Indian government to help early innovative startups with funds of over 1000 crore initiated by gov in 2016. 
+#### In this digital era getting professional guidance is in difficult at all. A flagship initiative started by Indian government to help early innovative startups with funds of over 1000 crore initiated by gov in 2016. In India several startups are already at ground working seemlessly to provide affordable solutions to people.
 
 #### In India several startups are already at ground working seemlessly to provide affordable solutions to people.
 
@@ -37,10 +37,12 @@
 [ Concluding Para ]
 
 #### We as students must leverage our thoughts (/think above) than just focusing on getting into a college with a decent job and contribute to the betterment of the society as a whole. 
+#### Problems are all around us, we just need Innovative minds to cope with them.*
 
-#### *Problems are all around us, we just need Innovative minds to cope with them.*
+## THANK UU!
 
-##THANK UU
+
+
 
 
 
