@@ -1,5 +1,5 @@
 # vbcv-ASL-Group6
-Yet another innovative speech
+Yet another speech
 HII
 
 ## _COMPILED AND EDITED SPEECH!!!_
