@@ -4,7 +4,7 @@ HII
 
 ## _COMPILED AND EDITED SPEECH!!!_
 
-### Ashutosh: **
+### **ASHUTOSH:**
 
 #### Setting up pipelines, Wells, and Handpumps are well known solutions but the truth now is that none of them are benefiting in real world. With the increase in Global Warming, the quality of rain and soil is deteriorating at a high level due to which health issues are becoming a common everyday household issue - which NONE of us seems to be concerned of. We need to innovate innovative solutions to deal with this concerned issue.
 
@@ -12,7 +12,7 @@ HII
 --------
 
 
-### Ashutosh: **
+### **ASHUTOSH:**
 
 #### [IMPortant Para]
 
@@ -22,13 +22,15 @@ HII
 
 --------
 
-### **ME: **
+### **ME:**
 
 #### And to let you all know, Actually there are many such start-ups in India creating solutions for water crisis in India.
 
 #### To name a few. **"Swajal"** - a startup democratizing access to reliable and clean drinking water by making it accessible and affordable to all. They invest in Innovations and R&D to provide affordable solutions to people. They set up water ATMs that are energy-efficient systems that use solar energy for water purification and vending, have easy-to-use user interfaces and payment mechanisms. *
 
-### ME:**
+---------
+
+### **ME:**
 
 #### [Concluding Para]
 
