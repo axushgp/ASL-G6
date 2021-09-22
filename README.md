@@ -6,7 +6,11 @@ HII
 
 ### Ashutosh: **
 
-#### Setting up pipelines, Wells, and Handpumps are well known solutions but the truth now is that none of them are benefiting in real world. With the increase in Global Warming, the quality of rain and soil is deteriorating at a high level which NONE of us seems to be concerned of. We need to innovate greater solutions to deal with this concerned issue
+#### Setting up pipelines, Wells, and Handpumps are well known solutions but the truth now is that none of them are benefiting in real world. With the increase in Global Warming, the quality of rain and soil is deteriorating at a high level due to which health issues are becoming a common everyday household issue - which NONE of us seems to be concerned of. We need to innovate innovative solutions to deal with this concerned issue.
+
+ 
+
+
 
 ### Ashutosh: **
 
